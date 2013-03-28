@@ -6,5 +6,6 @@ describe 'example' do
     it { true.should be_true }
     it { true.should be_true }
     it { true.should be_true }
+    it { true.should be_true }
   end
 end
