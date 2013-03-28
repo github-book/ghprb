@@ -2,6 +2,6 @@ require 'rspec'
 
 describe 'example' do
   describe 'example1' do
-    it { true.should be_false }
+    it { true.should be_true }
   end
 end
